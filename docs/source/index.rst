@@ -57,10 +57,11 @@ How to Cite
 If you use AETOS in your work, please cite:
 ::
 
-   E. Kousoulos et al. (2025). 
-   The Africa–Europe Energy Transition OSeMOSYS (AETOS) Model: 
-   A Multi-Country Framework for Cross-Continental Energy Trade.  
-   Zenodo. DOI: https://zenodo.org/records/17007181
+   E. Kousoulos et al. (2025).
+   The Africa–Europe Energy Transition OSeMOSYS (AETOS) Model:
+   A Multi-Country Framework for Cross-Continental Energy Trade.
+   Zenodo. DOI: https://doi.org/10.5281/zenodo.17638228
+
 
 .. toctree::
    :maxdepth: 2

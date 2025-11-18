@@ -56,7 +56,10 @@ Zenodo Repository
 
 .. important::
 
-   All processed datasets and scenario outputs are openly available on Zenodo:  
-   `AETOS Dataset <https://zenodo.org/records/17007181>`_  
+   All processed datasets, model files, and scenario outputs are openly available on Zenodo:  
+   `AETOS Dataset <https://doi.org/10.5281/zenodo.17638228>`_
 
-   Please cite this repository alongside the model documentation when using AETOS in your research.  
+   The full model runner and source code are also available on GitHub:  
+   `AETOS-model <https://github.com/ekousoulos/AETOS-model>`_
+
+   Please cite this Zenodo record alongside the model documentation when using AETOS in your research.
