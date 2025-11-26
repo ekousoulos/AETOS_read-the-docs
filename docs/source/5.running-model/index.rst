@@ -2,7 +2,8 @@ Running Model & Results
 =======================
 Project Structure
 -----------------
-The AETOS repository is organised into two main components:  
+The `AETOS GitHub repository <https://github.com/ekousoulos/AETOS_model>`_ is organised into two main components:
+
 📁 **AETOS_Assumptions**, which contains all input datasets, and  
 📁 **AETOS_Runner**, the full model-runner environment. Inside this folder you will find:
 

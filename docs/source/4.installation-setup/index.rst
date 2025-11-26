@@ -14,9 +14,10 @@ Follow the four steps below to get started:
    Make sure you have `Python <https://www.python.org/>`_ and  
    `Miniconda <https://docs.conda.io/en/latest/miniconda.html>`_ installed beforehand.
 
-**Step 1 – Clone the Repository**
+**Step 1 – Clone the Github Repository**
 
-Clone the repository, which contains everything from data editing to running and visualisation:
+Clone the `GitHub repository <https://github.com/ekousoulos/AETOS_model>`_, which contains everything from data editing to running and visualisation:
+
 
 .. code-block:: bash
 

@@ -51,6 +51,14 @@ Key Features
 - **Energy trade representation**: Grid interconnectors, Natural Gas pipelines, LNG infrastructure.  
 - **Units & currency**: Capacities in GW, fuel flows in PJ, emissions in MtCO₂, and all costs in constant 2021 USD.  
 
+Finding the GitHub Repository
+-----------------------------
+
+All model code, data-processing scripts, and workflow tools are openly hosted in the
+`AETOS GitHub repository <https://github.com/ekousoulos/AETOS_model>`_.
+You can browse the source, submit issues, or contribute improvements.
+
+
 How to Cite
 -----------
 
