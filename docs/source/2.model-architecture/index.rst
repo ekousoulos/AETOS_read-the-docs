@@ -19,7 +19,7 @@ Framework & Philosophy
 
 The diagram below shows the **AETOS input–output structure**, linking key datasets to model outputs:
 
-.. image:: /_static/AETOS-IO2.svg
+.. image:: /_static/AETOS-IO2.png
    :alt: AETOS IO
    :align: center
    :width: 90%
@@ -321,9 +321,9 @@ They illustrate flows from **primary resources** (fossil, renewable, imports) th
    :header-rows: 0
    :class: res-table
 
-   * - .. image:: /_static/RES-AU.svg
+   * - .. image:: /_static/RES-AU.png
           :width: 100%
-     - .. image:: /_static/RES-EU.svg
+     - .. image:: /_static/RES-EU.png
           :width: 100%
 
 .. raw:: html
@@ -343,7 +343,7 @@ Each link between two countries is modeled as a **bidirectional interconnector**
 This structure allows detailed accounting of **imports, exports, and trade balances**, while consistently linking power plants, demand, and regional grids.
  
 
-.. image:: /_static/Interconnector.svg
+.. image:: /_static/Interconnector.png
    :alt: Interconnection diagram
    :align: center
    :width: 90%
@@ -366,7 +366,7 @@ Two modes are used:
 - **Mode 1:** Charging (from grid/plant → storage).  
 - **Mode 2:** Discharging (from storage → grid/plant).   
 
-.. image:: /_static/storage.svg
+.. image:: /_static/storage.png
    :alt: Storage diagram
    :align: center
    :width: 65%
@@ -385,7 +385,7 @@ The model represents natural gas flows through **pipelines**, **LNG terminals** 
 - LNG imports and exports are included as separate technologies.  
 - Domestic extraction is captured explicitly via NG00X00 technologies.  
 
-.. image:: /_static/NGN.svg
+.. image:: /_static/NGN.png
    :alt: Natural Gas System diagram
    :align: center
    :width: 90%
